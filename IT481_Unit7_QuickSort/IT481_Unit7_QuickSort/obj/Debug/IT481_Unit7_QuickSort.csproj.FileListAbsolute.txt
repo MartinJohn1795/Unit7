@@ -1,0 +1,7 @@
+C:\Users\John\source\repos\IT481_Unit7_QuickSort\IT481_Unit7_QuickSort\obj\Debug\IT481_Unit7_QuickSort.csprojAssemblyReference.cache
+C:\Users\John\source\repos\IT481_Unit7_QuickSort\IT481_Unit7_QuickSort\obj\Debug\IT481_Unit7_QuickSort.csproj.CoreCompileInputs.cache
+C:\Users\John\source\repos\IT481_Unit7_QuickSort\IT481_Unit7_QuickSort\bin\Debug\IT481_Unit7_QuickSort.exe.config
+C:\Users\John\source\repos\IT481_Unit7_QuickSort\IT481_Unit7_QuickSort\bin\Debug\IT481_Unit7_QuickSort.exe
+C:\Users\John\source\repos\IT481_Unit7_QuickSort\IT481_Unit7_QuickSort\bin\Debug\IT481_Unit7_QuickSort.pdb
+C:\Users\John\source\repos\IT481_Unit7_QuickSort\IT481_Unit7_QuickSort\obj\Debug\IT481_Unit7_QuickSort.exe
+C:\Users\John\source\repos\IT481_Unit7_QuickSort\IT481_Unit7_QuickSort\obj\Debug\IT481_Unit7_QuickSort.pdb
